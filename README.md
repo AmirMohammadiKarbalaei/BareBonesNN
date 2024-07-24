@@ -9,11 +9,10 @@
 
 ## Installation
 
-To install BareBonesNN, clone the repository:
+To install BareBonesNN, use pip:
 
 ```bash
-git clone https://github.com/yourusername/BareBonesNN.git
-cd BareBonesNN
+pip install barebonesnn==0.1.0
 ```
 
 ## Usage

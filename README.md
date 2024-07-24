@@ -1,6 +1,3 @@
-**BareBonesNN**
-A neural network library built from scratch.
-
 **BareBonesNN** is a lightweight neural network library implemented from scratch in Python, without relying on high-level machine learning libraries. This project aims to provide a clear and fundamental understanding of neural network concepts and operations, making it an excellent educational resource for learning and experimentation.
 
 ## Features

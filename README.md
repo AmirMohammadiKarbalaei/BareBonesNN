@@ -75,13 +75,6 @@ The `examples/` directory contains scripts demonstrating various usages of the l
 python examples/example.py
 ```
 
-## Tests
-
-Unit tests are provided in the `tests/` directory. To run the tests, use the following command from the root of the project:
-
-```bash
-python -m unittest discover tests
-```
 
 ## Contributing
 

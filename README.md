@@ -12,7 +12,7 @@
 To install BareBonesNN, use pip:
 
 ```bash
-pip install barebonesnn==0.1.0
+pip install barebonesnn==0.1.1
 ```
 
 ## Usage
